@@ -3,3 +3,4 @@ second  git config --global user.name
         git config --global usere mail
 third git remote add origin http://www.github.com/caixk312/foo_git.git
       git pull origin master
+4  git pull origin master --allow-unrelated-histories
