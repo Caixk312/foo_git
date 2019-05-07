@@ -1,1 +1,3 @@
 first git and github.com
+second  git config --global user.name
+        git config --global usere mail
